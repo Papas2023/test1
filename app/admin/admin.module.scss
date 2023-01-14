@@ -18,7 +18,7 @@
             a {
                 outline: 1px solid rgb(81, 222, 247);
                 padding: 1em 2em;
-
+                color: black;
                 &:hover {
                     background-color: white;
                 }
@@ -27,6 +27,7 @@
             button {
                 outline: 1px solid rgb(81, 222, 247);
                 padding: 1em 2em;
+                color: black;
             }
         }
     }
